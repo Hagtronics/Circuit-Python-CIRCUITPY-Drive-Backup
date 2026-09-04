@@ -1,1 +1,2 @@
-
+# Written in Python 3.12, uses 'Tkinter' for warning dialogs if something goes wrong.
+# No other dependencies.
