@@ -1,7 +1,7 @@
 # Circuit-Python-CIRCUITPY-Drive-Backup
 Backup all files / folders from your CIRCUITPY drive to a desktop zip file.
   
-Unfortunately, it is very easy to crash a Circuit Python CIRVCUITPY drive and loose critical work.    
+Unfortunately, it is very easy to crash a Circuit Python CIRCUITPY drive and loose critical work.    
   
 Unlike most development environments where the source code is on your PC and you only transfer a compiled BIN file to your development board, with Circuit Python your source code is on the board itself. If anything goes wrong on with a Circuit Python project you can easily loose all the source code.  
     
