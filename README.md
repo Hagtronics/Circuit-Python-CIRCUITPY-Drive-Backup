@@ -11,4 +11,4 @@ Each backup zip file gets a unique time stamp, so that they will not overwrite o
   
 Usage: I have the source code in with my Python projects folders, then I put a shortcut to this program on the desktop. A double click will start the backup process which takes only a second and requires no options, etc.    
   
-If you look st the source code, you will see two types of 'Ignore' lists that you can optionally specify. One is to ignore specific files, another is to ignore specific folders. But realistically the Circuit Python drive is pretty small and I just backup everything. A typical backup for me is around 30 kBytes.
+If you look at the source code, you will see two types of 'Ignore' lists that you can optionally specify. One is to ignore specific files, another is to ignore specific folders. But realistically the Circuit Python drive is pretty small, and I just backup everything. A typical backup for me is around 30 kBytes.
