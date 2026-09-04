@@ -1,7 +1,7 @@
 """
 Version 1.0 - 11Aug26
 
-# At command prompt run: clone_circuitpy.py
+# At command prompt, or from a desktop shortcut, run: clone_circuitpy.py 
 # Automatically makes a copy of 'CIRCUITPY' drive to a zip file on the Windows desktop.
 
 # Output zip files will look like: "CIRCUITPY_Backup_20260811-185127.zip", where the numbers are a time stamp.
